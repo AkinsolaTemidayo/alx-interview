@@ -1,1 +1,1 @@
-# Pascal's Triangle
+A collection of interview challenges from ALX-Holberton and their solutions.
